@@ -116,6 +116,7 @@ nav .fa-solid{
       right: -200px;
       text-align: left;
       z-index: 2;
+      overflow-x: hidden;
       transition: 1s;
    }
 
